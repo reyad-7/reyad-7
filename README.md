@@ -16,6 +16,8 @@
 
 <p>
 <a href="https://www.linkedin.com/in/mohamed-reyad-914292240/"><img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png"></a> 
+<a href="https://www.leetcode.com/Mohamed_Reyad" target="blank"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohamed_Reyad" height="50" width="40" /></a>
 <a href="https://codeforces.com/profile/mreyad66"><img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png"><a href="https://t.me/reyad_4">  <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-dc618525ad6b.png"></a> 
 <a href="mailto:moreyad06@gmail.com"><img height="50" src="https://user-images.githubusercontent.com/101745968/179003389-f90c49c2-c9b5-4ae4-b3a2-3edfe1ad7dd2.png"></a> 
 </p>
