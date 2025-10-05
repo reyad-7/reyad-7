@@ -27,7 +27,6 @@ I enjoy building scalable and secure back-end applications with **C#, ASP.NET Co
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=reyad-7&show_icons=true&theme=radical&locale=en)
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reyad-7&layout=compact&theme=radical)
   
